@@ -1,18 +1,19 @@
-# File Based Programs - .Net 10 New Features
+# File-Based Programs - .Net 10 New Features
 
-File based programs is a new way we can run a .Net program directly from the .cs file, such as what we have in interpreted languages.
+File-based program is a new way to run a .Net program directly from a .cs file, similar to how interpreted languages work..
 
-It is great for scripting and for those learning C#, as it make super simple to run C# code.
+It is great for scripting and for those learning C#, as it makes running C# code extremely simple.
 
 ## Example
 
-After installing .Net 10 SDK, just clone this repo and execute:
+After installing the .Net 10 SDK, just clone this repo and execute:
 
 ```bash
 dotnet run ./passgen.cs
 ```
 
-Or, a even simpler way:
+Or, an even simpler way:
+
 ```bash
 ./passgen.cs
 ```
